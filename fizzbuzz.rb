@@ -6,6 +6,7 @@ elsif int % 5 == 0 # if the number int is divisible by 5
 else
   nil # Go buzz  end
 end
+end
 
 fizzbuzz(3) # => You should see a return of "Fizz"
 fizzbuzz(5) # => You should see a return of nil
